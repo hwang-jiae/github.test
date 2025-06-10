@@ -1,6 +1,6 @@
 
-
 59883e7 (Merge branch 'master' of https://github.com/hwang-jiae/github.tes
 
-2025.6.17일 작업 개시 -git rebase --continue 충돌로  d.txt 수정
+20250617  4시36분 수정( bar  브랜치 rebase -i수정 연습)
+1e069d9 (4번째 커밋 하기_20250611_(오후12시34분 수정))
 
