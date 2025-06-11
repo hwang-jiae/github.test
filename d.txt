@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+>>>>>>> 59883e7 (Merge branch 'master' of https://github.com/hwang-jiae/github.test)
 리베이스 중인 커밋 메세지 수정완료 
 >>>>>>> 7821762 (최종 터널에서 커밋)
 
@@ -28,5 +31,8 @@ git rebase --abort 수정중 d.txt 충동 해결하기로 메세지 나와서 �
 
 4번째 커밋하기-마스터  4번째 문서 만들기 (메세지 에디터 안에서 출동 해결중)
 
+<<<<<<< HEAD
 >>>>>>> d5c0d5c3b4b84600f13b505840230d931e3e8b55
 >>>>>>> 7821762 (최종 터널에서 커밋)
+=======
+>>>>>>> 59883e7 (Merge branch 'master' of https://github.com/hwang-jiae/github.test)
